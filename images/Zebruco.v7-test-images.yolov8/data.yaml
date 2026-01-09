@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['aruco', 'zebra', 'zebra_single']
+
+roboflow:
+  workspace: quadcopter
+  project: zebruco-t45pv
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/quadcopter/zebruco-t45pv/dataset/7
