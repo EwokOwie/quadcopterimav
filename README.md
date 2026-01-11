@@ -2,6 +2,9 @@
 
 ## Project: P000377CSITCP
 
+## NOTE:
+- This is a modified version of this project without the DATASETS as they are too large to host on Github. Email me at owiemarston@gmail.com for said datasets. 
+
 ### Team Members
 
 - Bob Qian, s3840234
